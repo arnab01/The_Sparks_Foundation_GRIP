@@ -1,1 +1,1 @@
-# The-Sparks-Foundation---Data-Science-and-Business-Analytics
+The GRIP from The Sparks Foundation.
